@@ -6,10 +6,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-🔭 &nbsp; I’m currently working as a Fullstack Developer
-🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
-💬 &nbsp; Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+<div>🔭 &nbsp; I’m currently working as a Fullstack Developer</div>
+<div>🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.</div>
+<div>🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.</div>
+<div>💬 &nbsp; Ask me about Full Stack Development, Cloud, and any Tech-related stuff</d>.
 
 </br>
 
