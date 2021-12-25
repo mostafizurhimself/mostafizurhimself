@@ -1,9 +1,5 @@
 <h2> Hi! I'm Mostafizur Rahman.</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdMostaFizurRahaman&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mostafizur's Github Stats">
-
-</br>
-</br>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/MdMostaFizurRahaman/MdMostaFizurRahaman/main/assets/gif3.gif" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 <div>🔭 &nbsp; I’m currently working as a Fullstack Developer</div>
@@ -12,20 +8,21 @@
 <div>💬 &nbsp; Ask me about Full Stack Development, Cloud, and any Tech-related stuff</d>.
 
 </br>
+</br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdMostaFizurRahaman&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mostafizur's Github Stats">
+
+<br>
 
 ### Languages and Frameworks...
 
-[![PHP](https://img.shields.io/badge/-php-black?style=flat&logo=php&link=https://github.com/MdMostaFizurRahaman)](https://github.com/MdMostaFizurRahaman) 
+[![PHP](https://img.shields.io/badge/-php-black?style=flat&logo=php&link=https://github.com/MdMostaFizurRahaman)](https://github.com/MdMostaFizurRahaman)
 
-[![Javascript](https://img.shields.io/badge/-javascript-black?style=flat&logo=javascript&link=https://github.com/MdMostaFizurRahaman)](https://github.com/MdMostaFizurRahaman) 
-
-
-</br>
+[![Javascript](https://img.shields.io/badge/-javascript-black?style=flat&logo=javascript&link=https://github.com/MdMostaFizurRahaman)](https://github.com/MdMostaFizurRahaman)
 
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdMostaFizurRahaman&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/MdMostaFizurRahaman/github-readme-stats)
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
