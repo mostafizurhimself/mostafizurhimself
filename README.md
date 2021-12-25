@@ -26,24 +26,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdMostaFizurRahaman&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/MdMostaFizurRahaman/github-readme-stats)
 
-<h3> 🤝🏻 Connect with Me </h3>
+### :handshake: Connect with Me
 
-<p align="center">
-  <a href="https://twitter.com/naiman_alex">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/alex.naiman.4/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexandru-nicolae-naiman-28b60a137/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://discord.gg/KgF4WGf">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="mailto:alex.naiman.4@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
-  </a>
-</p>
+&nbsp;[![linkein](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.Twitter.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://twitter.com/MdMosta49832065) [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:mostafizurhimself@gmail.com) [![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/md-mostafizur-rahman-846823202/) [![facebook](https://img.shields.io/badge/-Facebook-1778F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.facebook.com/ahmed.shakil.75839)
 
-⭐️ From [Md Mostafizur Rahman](https://github.com/MdMostaFizurRahaman)
+:star: From [Md Mostafizur Rahman](https://github.com/MdMostaFizurRahaman)
