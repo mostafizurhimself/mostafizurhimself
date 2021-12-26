@@ -2,8 +2,6 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=MdMostaFizurRahman)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/MdMostaFizurRahaman/MdMostaFizurRahaman/main/assets/gif3.gif" width="500"/>
-
 ### 👨🏻‍💻 About Me
 
 <div>🔭 &nbsp; I’m currently working as a Fullstack Developer</div>
