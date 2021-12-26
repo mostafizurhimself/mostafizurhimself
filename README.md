@@ -1,6 +1,6 @@
 ## :wave: Hi! I'm Mostafizur Rahman
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=MdMostaFizurRahman)
+![](https://komarev.com/ghpvc/?username=MdMostaFizurRahaman)
 
 ### 👨🏻‍💻 About Me
 
@@ -28,6 +28,6 @@
 
 ### :handshake: Connect with Me
 
-&nbsp;[![linkein](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.Twitter.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://twitter.com/MdMosta49832065) [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:mostafizurhimself@gmail.com) [![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/md-mostafizur-rahman-846823202/) [![facebook](https://img.shields.io/badge/-Facebook-1778F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.facebook.com/ahmed.shakil.75839)
+&nbsp;[![linkein](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.Twitter.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://twitter.com/MdMosta49832065) [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:mostafizurhimself@gmail.com) [![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/md-mostafizur-rahman-846823202/) [![facebook](https://img.shields.io/badge/-Facebook-1778F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.facebook.com/ahmed.shakil.75839) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=8801834507645&text=Hi!)](https://api.whatsapp.com/send?phone=8801834507645&text=Hi!🖖)
 
 :star: From [Md Mostafizur Rahman](https://github.com/MdMostaFizurRahaman)
