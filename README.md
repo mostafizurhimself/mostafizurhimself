@@ -7,7 +7,7 @@
 <div>🔭 &nbsp; I’m currently working as a Fullstack Developer</div>
 <div>🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.</div>
 <div>🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.</div>
-<div>💬 &nbsp; Ask me about anything, I would like to answer.</div>.
+<div>💬 &nbsp; Ask me about anything, I would like to answer.</div>
 
 </br>
 </br>
