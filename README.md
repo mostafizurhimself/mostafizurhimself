@@ -1,5 +1,3 @@
-![coding-time](./assets/gif3.gif)
-
 ### 👨🏻‍💻 About Me
 
 🔭 I’m currently working on an open-source project
