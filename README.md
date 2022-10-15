@@ -1,33 +1,31 @@
-## :wave: Hi! I'm Mostafizur Rahman
-
-![](https://komarev.com/ghpvc/?username=mostafizurhimself)
-
 ### 👨🏻‍💻 About Me
 
-<div>🔭 &nbsp; I’m currently working as a Fullstack Developer</div>
-<div>🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.</div>
-<div>🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.</div>
-<div>💬 &nbsp; Ask me about anything, I would like to answer.</div>
-
-</br>
-</br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafizurhimself&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mostafizur's Github Stats">
-
-<br>
+🔭 I’m currently working on an open-source project
+🌱 I’m currently learning Data structure and Algorithm
+👯 I’m looking to collaborate on tech articles and learning resources
+⚡ Fun fact: I use double quotes over single quotes
 
 ### :computer: Languages, Frameworks & Tools
 
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself)
-[![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![React](https://img.shields.io/badge/-React.js-black?style=flat&logo=react&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=Vue.js&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=white&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwindcss&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![CSS3](https://img.shields.io/badge/-CSS3-254BDD?style=flat&logo=css3&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2F5E8D?style=flat&logo=postgresql&logoColor=white&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself) [![Kubernetes](https://img.shields.io/badge/-Kubernetes-306ADF?style=flat&logo=kubernetes&logoColor=white&link=https://github.com/mostafizurhimself)](https://github.com/mostafizurhimself)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-</br>
+### 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizurhimself&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/mostafizurhimself/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=mostafizurhimself&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mostafizurhimself&theme=default&hide_border=false)<br/>
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizurhimself&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mostafizurhimself&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### :handshake: Connect with Me
 
-&nbsp;[![linkein](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white&link=https://www.Twitter.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://twitter.com/mostafizhimself) [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:mostafizurhimself@gmail.com) [![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/md-mostafizur-rahman-846823202/) [![facebook](https://img.shields.io/badge/-Facebook-1778F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.facebook.com/ahmed.shakil.75839) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=8801834507645&text=Hi!)](https://api.whatsapp.com/send?phone=8801834507645&text=Hi!🖖)
-
-:star: From [Md Mostafizur Rahman](https://github.com/mostafizurhimself)
+<p align="left">
+<a href="https://twitter.com/mostafizhimself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafizhimself" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-mostafizur-rahman-524003233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mostafizur-rahman-524003233" height="30" width="40" /></a>
+<a href="https://fb.com/ahmed.shakil.75839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.shakil.75839" height="30" width="40" /></a>
+<a href="https://medium.com/@mostafizurhimself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mostafizurhimself" height="30" width="40" /></a>
+<a href="https://dev.to/mdmostafizurrahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdmostafizurrahaman" height="30" width="40" /></a>
+</p>
