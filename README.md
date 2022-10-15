@@ -1,8 +1,13 @@
+![coding-time](./assets/gif3.gif)
+
 ### 👨🏻‍💻 About Me
 
 🔭 I’m currently working on an open-source project
+
 🌱 I’m currently learning Data structure and Algorithm
+
 👯 I’m looking to collaborate on tech articles and learning resources
+
 ⚡ Fun fact: I use double quotes over single quotes
 
 ### :computer: Languages, Frameworks & Tools
