@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 About Me
 
-🔭 I’m currently working on [Dokan Cloud](https://dokan.co/cloud)
+🔭 I’m currently working on [Dokan Cloud](https://dokan.co/cloud){:target="\_blank"}
 
 🌱 I’m currently learning Data structure and Algorithm
 
